@@ -2,7 +2,7 @@
   "name": "zomato-filter-page",
   "version": "1.0.0",
   "description": "",
-  "main": "chicken.html",
+  "main": "chicken.js",
   "scripts": {
     "start": "parcel chicken.html",
     "build":"parcel build chicken.html --dist-dir ./dist"
